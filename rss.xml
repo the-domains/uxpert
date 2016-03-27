@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[UXpert]]></title>
+        <description><![CDATA[UXpert]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Mar 2016 09:44:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>UX designers is rapidly growing. Although the term “User Experience” has been used already in the ‘90s by Donald Norman it is still a young field in design, which many people have a problem identifying what it really does.</p>]]></description>
+            <link>undefinedux-designers-is-rapidly-growing-although-the-term-user-exp/index.html</link>
+            <guid isPermaLink="false">83c2bf9f-c408-4929-a421-29337075ec38</guid>
+            <pubDate>Sun, 27 Mar 2016 09:44:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

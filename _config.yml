@@ -2,6 +2,7 @@ name: UXpert
 favicon: null
 layout_spectrum: 0.5567192411981523
 typography_spectrum: 0.7342023586388677
+title: User Expert
 cta:
   domain: null
   bucket: null
